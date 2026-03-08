@@ -5,3 +5,4 @@ smartcontract/target/
 node_modules/
 node_modules/
 .next/
+config.bat
